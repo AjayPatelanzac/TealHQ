@@ -30,6 +30,7 @@ public class LoginPageTest extends TestBase {
 	public void loginPageTitleTest() {
 		System.out.println("Teal");
 		String title=lp.validateLoginPageTitle();
+		System.out.println("   ");
 		Assert.assertEquals(title, "Teal","not matched login page title");
 	}
 	
