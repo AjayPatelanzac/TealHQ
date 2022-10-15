@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="23" passed="23" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-15T14:02:46Z" name="Surefire suite" finished-at="2022-10-15T14:15:37Z" duration-ms="770622">
+    <groups>
+    </groups>
+    <test started-at="2022-10-15T14:02:46Z" name="Surefire test" finished-at="2022-10-15T14:15:37Z" duration-ms="770622">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomePageTest@6aaceffd]" started-at="2022-10-15T10:03:30Z" name="setUp" finished-at="2022-10-15T10:03:44Z" duration-ms="13841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="homePageTitleTest()[pri:1, instance:tests.HomePageTest@6aaceffd]" started-at="2022-10-15T10:03:44Z" name="homePageTitleTest" finished-at="2022-10-15T10:03:44Z" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.HomePageTest@6aaceffd]" started-at="2022-10-15T10:03:44Z" name="closeBrowser" finished-at="2022-10-15T10:03:46Z" duration-ms="2027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomePageTest@6aaceffd]" started-at="2022-10-15T10:04:38Z" name="setUp" finished-at="2022-10-15T10:04:51Z" duration-ms="13214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="uTestLogoTest()[pri:2, instance:tests.HomePageTest@6aaceffd]" started-at="2022-10-15T10:04:51Z" name="uTestLogoTest" finished-at="2022-10-15T10:04:51Z" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uTestLogoTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.HomePageTest@6aaceffd]" started-at="2022-10-15T10:04:51Z" name="closeBrowser" finished-at="2022-10-15T10:04:53Z" duration-ms="1622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.HomePageTest@6aaceffd]" started-at="2022-10-15T10:09:33Z" name="setUp" finished-at="2022-10-15T10:09:46Z" duration-ms="13080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnCOntacsLinkTest()[pri:3, instance:tests.HomePageTest@6aaceffd]" started-at="2022-10-15T10:09:46Z" name="clickOnCOntacsLinkTest" finished-at="2022-10-15T10:09:48Z" duration-ms="2346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCOntacsLinkTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.HomePageTest@6aaceffd]" started-at="2022-10-15T10:09:48Z" name="closeBrowser" finished-at="2022-10-15T10:09:50Z" duration-ms="1698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.HomePageTest -->
+      <class name="tests.ContactsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:03:11Z" name="setUp" finished-at="2022-10-15T10:03:28Z" duration-ms="17017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contactsPageTitleTest()[pri:1, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:03:28Z" name="contactsPageTitleTest" finished-at="2022-10-15T10:03:28Z" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactsPageTitleTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:03:28Z" name="closeBrowser" finished-at="2022-10-15T10:03:30Z" duration-ms="1922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:04:19Z" name="setUp" finished-at="2022-10-15T10:04:36Z" duration-ms="17758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contactsPageLogoTest()[pri:2, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:04:36Z" name="contactsPageLogoTest" finished-at="2022-10-15T10:04:36Z" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactsPageLogoTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:04:36Z" name="closeBrowser" finished-at="2022-10-15T10:04:38Z" duration-ms="1573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:05:34Z" name="setUp" finished-at="2022-10-15T10:09:30Z" duration-ms="235420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addContactButtonTest()[pri:3, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:09:30Z" name="addContactButtonTest" finished-at="2022-10-15T10:09:31Z" duration-ms="1469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContactButtonTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:09:31Z" name="closeBrowser" finished-at="2022-10-15T10:09:33Z" duration-ms="1146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:11:42Z" name="setUp" finished-at="2022-10-15T10:11:58Z" duration-ms="16332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createNewContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:11:58Z" name="createNewContactTest" data-provider="getContactExcelData" finished-at="2022-10-15T10:12:05Z" duration-ms="7046" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Patel]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[IT]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[IT]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[it@it.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://ca.linkedin.com/in/ajaypatel107]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://ca.linkedin.com/in/ajaypatel107]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[owensound]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[6.474717474E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:12:05Z" name="closeBrowser" finished-at="2022-10-15T10:12:08Z" duration-ms="2573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:12:08Z" name="setUp" finished-at="2022-10-15T10:12:25Z" duration-ms="17544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createNewContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:12:25Z" name="createNewContactTest" data-provider="getContactExcelData" finished-at="2022-10-15T10:12:41Z" duration-ms="15818" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Patel]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[IT Dev]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[IT Dev]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[it@it.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[https://ca.linkedin.com/in/ajaypatel107]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://ca.linkedin.com/in/ajaypatel107]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[owensound]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[6.474717474E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:12:41Z" name="closeBrowser" finished-at="2022-10-15T10:12:43Z" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:12:43Z" name="setUp" finished-at="2022-10-15T10:12:58Z" duration-ms="15635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createNewContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:12:58Z" name="createNewContactTest" data-provider="getContactExcelData" finished-at="2022-10-15T10:13:13Z" duration-ms="14847" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:13:13Z" name="closeBrowser" finished-at="2022-10-15T10:13:15Z" duration-ms="1798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:13:15Z" name="setUp" finished-at="2022-10-15T10:13:31Z" duration-ms="15691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createNewContactTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:13:31Z" name="createNewContactTest" data-provider="getContactExcelData" finished-at="2022-10-15T10:13:45Z" duration-ms="14428" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:13:45Z" name="closeBrowser" finished-at="2022-10-15T10:13:47Z" duration-ms="1716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:14:14Z" name="setUp" finished-at="2022-10-15T10:14:30Z" duration-ms="15671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteContactTest()[pri:5, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:14:30Z" name="deleteContactTest" finished-at="2022-10-15T10:14:40Z" duration-ms="10165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContactTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:14:40Z" name="closeBrowser" finished-at="2022-10-15T10:14:42Z" duration-ms="1714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:15:09Z" name="setUp" finished-at="2022-10-15T10:15:25Z" duration-ms="15906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteAllContactTest()[pri:6, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:15:25Z" name="deleteAllContactTest" finished-at="2022-10-15T10:15:35Z" duration-ms="10187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllContactTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ContactsPageTest@e4487af]" started-at="2022-10-15T10:15:35Z" name="closeBrowser" finished-at="2022-10-15T10:15:37Z" duration-ms="1620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.ContactsPageTest -->
+      <class name="tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@c86b9e3]" started-at="2022-10-15T10:03:46Z" name="setUp" finished-at="2022-10-15T10:03:57Z" duration-ms="10770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:tests.LoginPageTest@c86b9e3]" started-at="2022-10-15T10:03:57Z" name="loginPageTitleTest" finished-at="2022-10-15T10:03:57Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginPageTest@c86b9e3]" started-at="2022-10-15T10:03:57Z" name="closeBrowser" finished-at="2022-10-15T10:03:59Z" duration-ms="2134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@c86b9e3]" started-at="2022-10-15T10:04:53Z" name="setUp" finished-at="2022-10-15T10:05:02Z" duration-ms="9583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="uTestLogoTest()[pri:2, instance:tests.LoginPageTest@c86b9e3]" started-at="2022-10-15T10:05:02Z" name="uTestLogoTest" finished-at="2022-10-15T10:05:03Z" duration-ms="497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uTestLogoTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginPageTest@c86b9e3]" started-at="2022-10-15T10:05:03Z" name="closeBrowser" finished-at="2022-10-15T10:05:05Z" duration-ms="1864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginPageTest@c86b9e3]" started-at="2022-10-15T10:09:50Z" name="setUp" finished-at="2022-10-15T10:09:59Z" duration-ms="9320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:tests.LoginPageTest@c86b9e3]" started-at="2022-10-15T10:09:59Z" name="loginTest" finished-at="2022-10-15T10:10:03Z" duration-ms="4110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginPageTest@c86b9e3]" started-at="2022-10-15T10:10:03Z" name="closeBrowser" finished-at="2022-10-15T10:10:05Z" duration-ms="1995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.LoginPageTest -->
+      <class name="tests.CompanyPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:02:46Z" name="setUp" finished-at="2022-10-15T10:03:09Z" duration-ms="23006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CompanyPageTitleTest()[pri:1, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:03:09Z" name="CompanyPageTitleTest" finished-at="2022-10-15T10:03:09Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompanyPageTitleTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:03:09Z" name="closeBrowser" finished-at="2022-10-15T10:03:11Z" duration-ms="1866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:03:59Z" name="setUp" finished-at="2022-10-15T10:04:16Z" duration-ms="16784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CompanyPageLogoTest()[pri:2, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:04:16Z" name="CompanyPageLogoTest" finished-at="2022-10-15T10:04:16Z" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompanyPageLogoTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:04:16Z" name="closeBrowser" finished-at="2022-10-15T10:04:19Z" duration-ms="2567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:05:05Z" name="setUp" finished-at="2022-10-15T10:05:20Z" duration-ms="15641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addCompanyButtonTest()[pri:3, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:05:20Z" name="addCompanyButtonTest" finished-at="2022-10-15T10:05:32Z" duration-ms="11677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCompanyButtonTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:05:32Z" name="closeBrowser" finished-at="2022-10-15T10:05:34Z" duration-ms="2338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:10:07Z" name="setUp" finished-at="2022-10-15T10:10:24Z" duration-ms="16819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createNewCompanyTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:10:24Z" name="createNewCompanyTest" data-provider="getCompanyExcelData" finished-at="2022-10-15T10:10:44Z" duration-ms="20238" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NP Tech]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Architecture & Planning]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[201-500 employees]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Privately held]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Toronto]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCompanyTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:10:44Z" name="closeBrowser" finished-at="2022-10-15T10:10:46Z" duration-ms="1620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:10:46Z" name="setUp" finished-at="2022-10-15T10:11:01Z" duration-ms="15229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createNewCompanyTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:11:01Z" name="createNewCompanyTest" data-provider="getCompanyExcelData" finished-at="2022-10-15T10:11:12Z" duration-ms="10933" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AP Web]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arts & Crafts]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1,001-5,000 employees]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sole proprietorship]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Owensound]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCompanyTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:11:12Z" name="closeBrowser" finished-at="2022-10-15T10:11:14Z" duration-ms="1729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:11:14Z" name="setUp" finished-at="2022-10-15T10:11:30Z" duration-ms="15810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createNewCompanyTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:11:30Z" name="createNewCompanyTest" data-provider="getCompanyExcelData" finished-at="2022-10-15T10:11:40Z" duration-ms="10278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajay Patel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Architecture & Planning]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[201-500 employees]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Government agency]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Owensound]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewCompanyTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:11:40Z" name="closeBrowser" finished-at="2022-10-15T10:11:41Z" duration-ms="1609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:13:47Z" name="setUp" finished-at="2022-10-15T10:14:02Z" duration-ms="15201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteCompanyTest()[pri:5, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:14:02Z" name="deleteCompanyTest" finished-at="2022-10-15T10:14:12Z" duration-ms="10264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCompanyTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:14:12Z" name="closeBrowser" finished-at="2022-10-15T10:14:14Z" duration-ms="1933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:14:42Z" name="setUp" finished-at="2022-10-15T10:14:57Z" duration-ms="15471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deleteAllCompanyTest()[pri:6, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:14:57Z" name="deleteAllCompanyTest" finished-at="2022-10-15T10:15:07Z" duration-ms="10235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCompanyTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.CompanyPageTest@687e99d8]" started-at="2022-10-15T10:15:07Z" name="closeBrowser" finished-at="2022-10-15T10:15:09Z" duration-ms="1885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.CompanyPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

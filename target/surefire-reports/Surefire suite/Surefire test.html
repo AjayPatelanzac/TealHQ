@@ -1,0 +1,194 @@
+<html>
+<head>
+<title>TestNG:  Surefire test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Surefire test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>23/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sat Oct 15 10:02:46 EDT 2022</td>
+</tr>
+<tr><td>Total time:</td><td>770 seconds (770622 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='tests.CompanyPageTest.CompanyPageLogoTest()'><b>CompanyPageLogoTest</b><br>Test class: tests.CompanyPageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.CompanyPageTest@687e99d8</td></tr>
+<tr>
+<td title='tests.CompanyPageTest.CompanyPageTitleTest()'><b>CompanyPageTitleTest</b><br>Test class: tests.CompanyPageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.CompanyPageTest@687e99d8</td></tr>
+<tr>
+<td title='tests.CompanyPageTest.addCompanyButtonTest()'><b>addCompanyButtonTest</b><br>Test class: tests.CompanyPageTest</td>
+<td></td>
+<td>11</td>
+<td>tests.CompanyPageTest@687e99d8</td></tr>
+<tr>
+<td title='tests.ContactsPageTest.addContactButtonTest()'><b>addContactButtonTest</b><br>Test class: tests.ContactsPageTest</td>
+<td></td>
+<td>1</td>
+<td>tests.ContactsPageTest@e4487af</td></tr>
+<tr>
+<td title='tests.HomePageTest.clickOnCOntacsLinkTest()'><b>clickOnCOntacsLinkTest</b><br>Test class: tests.HomePageTest</td>
+<td></td>
+<td>2</td>
+<td>tests.HomePageTest@6aaceffd</td></tr>
+<tr>
+<td title='tests.ContactsPageTest.contactsPageLogoTest()'><b>contactsPageLogoTest</b><br>Test class: tests.ContactsPageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.ContactsPageTest@e4487af</td></tr>
+<tr>
+<td title='tests.ContactsPageTest.contactsPageTitleTest()'><b>contactsPageTitleTest</b><br>Test class: tests.ContactsPageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.ContactsPageTest@e4487af</td></tr>
+<tr>
+<td title='tests.CompanyPageTest.createNewCompanyTest()'><b>createNewCompanyTest</b><br>Test class: tests.CompanyPageTest<br>Parameters: NP Tech, Architecture & Planning, 201-500 employees, Privately held, Toronto, , , </td>
+<td></td>
+<td>20</td>
+<td>tests.CompanyPageTest@687e99d8</td></tr>
+<tr>
+<td title='tests.CompanyPageTest.createNewCompanyTest()'><b>createNewCompanyTest</b><br>Test class: tests.CompanyPageTest<br>Parameters: AP Web, Arts & Crafts, 1,001-5,000 employees, Sole proprietorship, Owensound, , , </td>
+<td></td>
+<td>10</td>
+<td>tests.CompanyPageTest@687e99d8</td></tr>
+<tr>
+<td title='tests.CompanyPageTest.createNewCompanyTest()'><b>createNewCompanyTest</b><br>Test class: tests.CompanyPageTest<br>Parameters: Ajay Patel, Architecture & Planning, 201-500 employees, Government agency, Owensound, , , </td>
+<td></td>
+<td>10</td>
+<td>tests.CompanyPageTest@687e99d8</td></tr>
+<tr>
+<td title='tests.ContactsPageTest.createNewContactTest()'><b>createNewContactTest</b><br>Test class: tests.ContactsPageTest<br>Parameters: Aj, Patel, IT, IT, it@it.com, https://ca.linkedin.com/in/ajaypatel107, https://ca.linkedin.com/in/ajaypatel107, owensound, 6.474717474E9</td>
+<td></td>
+<td>7</td>
+<td>tests.ContactsPageTest@e4487af</td></tr>
+<tr>
+<td title='tests.ContactsPageTest.createNewContactTest()'><b>createNewContactTest</b><br>Test class: tests.ContactsPageTest<br>Parameters: Ajay, Patel, IT Dev, IT Dev, it@it.com, https://ca.linkedin.com/in/ajaypatel107, https://ca.linkedin.com/in/ajaypatel107, owensound, 6.474717474E9</td>
+<td></td>
+<td>15</td>
+<td>tests.ContactsPageTest@e4487af</td></tr>
+<tr>
+<td title='tests.ContactsPageTest.createNewContactTest()'><b>createNewContactTest</b><br>Test class: tests.ContactsPageTest<br>Parameters: , , , , , , , , </td>
+<td></td>
+<td>14</td>
+<td>tests.ContactsPageTest@e4487af</td></tr>
+<tr>
+<td title='tests.ContactsPageTest.createNewContactTest()'><b>createNewContactTest</b><br>Test class: tests.ContactsPageTest<br>Parameters: , , , , , , , , </td>
+<td></td>
+<td>14</td>
+<td>tests.ContactsPageTest@e4487af</td></tr>
+<tr>
+<td title='tests.CompanyPageTest.deleteAllCompanyTest()'><b>deleteAllCompanyTest</b><br>Test class: tests.CompanyPageTest</td>
+<td></td>
+<td>10</td>
+<td>tests.CompanyPageTest@687e99d8</td></tr>
+<tr>
+<td title='tests.ContactsPageTest.deleteAllContactTest()'><b>deleteAllContactTest</b><br>Test class: tests.ContactsPageTest</td>
+<td></td>
+<td>10</td>
+<td>tests.ContactsPageTest@e4487af</td></tr>
+<tr>
+<td title='tests.CompanyPageTest.deleteCompanyTest()'><b>deleteCompanyTest</b><br>Test class: tests.CompanyPageTest</td>
+<td></td>
+<td>10</td>
+<td>tests.CompanyPageTest@687e99d8</td></tr>
+<tr>
+<td title='tests.ContactsPageTest.deleteContactTest()'><b>deleteContactTest</b><br>Test class: tests.ContactsPageTest</td>
+<td></td>
+<td>10</td>
+<td>tests.ContactsPageTest@e4487af</td></tr>
+<tr>
+<td title='tests.HomePageTest.homePageTitleTest()'><b>homePageTitleTest</b><br>Test class: tests.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.HomePageTest@6aaceffd</td></tr>
+<tr>
+<td title='tests.LoginPageTest.loginPageTitleTest()'><b>loginPageTitleTest</b><br>Test class: tests.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.LoginPageTest@c86b9e3</td></tr>
+<tr>
+<td title='tests.LoginPageTest.loginTest()'><b>loginTest</b><br>Test class: tests.LoginPageTest</td>
+<td></td>
+<td>4</td>
+<td>tests.LoginPageTest@c86b9e3</td></tr>
+<tr>
+<td title='tests.HomePageTest.uTestLogoTest()'><b>uTestLogoTest</b><br>Test class: tests.HomePageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.HomePageTest@6aaceffd</td></tr>
+<tr>
+<td title='tests.LoginPageTest.uTestLogoTest()'><b>uTestLogoTest</b><br>Test class: tests.LoginPageTest</td>
+<td></td>
+<td>0</td>
+<td>tests.LoginPageTest@c86b9e3</td></tr>
+</table><p>
+</body>
+</html>

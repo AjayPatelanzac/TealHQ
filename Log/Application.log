@@ -1,0 +1,588 @@
+15/10/2022 10:02:57 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:03:02 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:03:02 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:03:02 ajay Found Element By : By.id: login_email
+15/10/2022 10:03:04 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:03:04 ajay Found Element By : By.id: login_password
+15/10/2022 10:03:04 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:03:04 ajay Found Element By : By.id: register-submit
+15/10/2022 10:03:04 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (0778d49b-fad7-4620-9a4d-c5f45da6710a)] -> id: register-submit]
+15/10/2022 10:03:05 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (0778d49b-fad7-4620-9a4d-c5f45da6710a)] -> id: register-submit]
+15/10/2022 10:03:07 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:03:07 ajay Found Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:03:07 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (0778d49b-fad7-4620-9a4d-c5f45da6710a)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:03:07 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (0778d49b-fad7-4620-9a4d-c5f45da6710a)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:03:18 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:03:21 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:03:21 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:03:22 ajay Found Element By : By.id: login_email
+15/10/2022 10:03:23 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:03:23 ajay Found Element By : By.id: login_password
+15/10/2022 10:03:23 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:03:23 ajay Found Element By : By.id: register-submit
+15/10/2022 10:03:23 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (ec430732-21e0-4a67-a185-fc9138fb1fbc)] -> id: register-submit]
+15/10/2022 10:03:24 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (ec430732-21e0-4a67-a185-fc9138fb1fbc)] -> id: register-submit]
+15/10/2022 10:03:26 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:03:26 ajay Found Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:03:26 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (ec430732-21e0-4a67-a185-fc9138fb1fbc)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:03:26 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (ec430732-21e0-4a67-a185-fc9138fb1fbc)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:03:36 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:03:40 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:03:40 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:03:40 ajay Found Element By : By.id: login_email
+15/10/2022 10:03:41 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:03:41 ajay Found Element By : By.id: login_password
+15/10/2022 10:03:41 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:03:42 ajay Found Element By : By.id: register-submit
+15/10/2022 10:03:42 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (1353fc79-1b95-46a6-b537-be78847d94a0)] -> id: register-submit]
+15/10/2022 10:03:42 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (1353fc79-1b95-46a6-b537-be78847d94a0)] -> id: register-submit]
+15/10/2022 10:03:53 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:03:57 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:04:05 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:04:09 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:04:09 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:04:09 ajay Found Element By : By.id: login_email
+15/10/2022 10:04:10 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:04:11 ajay Found Element By : By.id: login_password
+15/10/2022 10:04:11 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:04:11 ajay Found Element By : By.id: register-submit
+15/10/2022 10:04:11 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (c474e229-cf4b-4668-8071-526828a44eab)] -> id: register-submit]
+15/10/2022 10:04:11 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (c474e229-cf4b-4668-8071-526828a44eab)] -> id: register-submit]
+15/10/2022 10:04:13 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:04:14 ajay Found Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:04:14 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (c474e229-cf4b-4668-8071-526828a44eab)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:04:14 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (c474e229-cf4b-4668-8071-526828a44eab)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:04:16 ajay Trying to find Element By : By.xpath: //img[@alt='Teal Logo']
+15/10/2022 10:04:16 ajay Found Element By : By.xpath: //img[@alt='Teal Logo']
+15/10/2022 10:04:26 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:04:30 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:04:30 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:04:30 ajay Found Element By : By.id: login_email
+15/10/2022 10:04:31 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:04:31 ajay Found Element By : By.id: login_password
+15/10/2022 10:04:32 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:04:32 ajay Found Element By : By.id: register-submit
+15/10/2022 10:04:32 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (af4abd28-c386-4e43-871e-706c76041470)] -> id: register-submit]
+15/10/2022 10:04:32 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (af4abd28-c386-4e43-871e-706c76041470)] -> id: register-submit]
+15/10/2022 10:04:34 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:04:34 ajay Found Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:04:34 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (af4abd28-c386-4e43-871e-706c76041470)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:04:34 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (af4abd28-c386-4e43-871e-706c76041470)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:04:36 ajay Trying to find Element By : By.xpath: //img[@alt='Teal Logo']
+15/10/2022 10:04:36 ajay Found Element By : By.xpath: //img[@alt='Teal Logo']
+15/10/2022 10:04:44 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:04:47 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:04:47 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:04:47 ajay Found Element By : By.id: login_email
+15/10/2022 10:04:48 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:04:48 ajay Found Element By : By.id: login_password
+15/10/2022 10:04:49 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:04:49 ajay Found Element By : By.id: register-submit
+15/10/2022 10:04:49 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (fc42b8ed-95c7-4194-8e3e-b8464b95317f)] -> id: register-submit]
+15/10/2022 10:04:49 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (fc42b8ed-95c7-4194-8e3e-b8464b95317f)] -> id: register-submit]
+15/10/2022 10:04:51 ajay Trying to find Element By : By.xpath: //img[@alt='Teal Logo']
+15/10/2022 10:04:51 ajay Found Element By : By.xpath: //img[@alt='Teal Logo']
+15/10/2022 10:04:59 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:05:02 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:05:02 ajay Trying to find Element By : By.className: teal-logo
+15/10/2022 10:05:03 ajay Found Element By : By.className: teal-logo
+15/10/2022 10:05:11 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:05:14 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:05:14 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:05:14 ajay Found Element By : By.id: login_email
+15/10/2022 10:05:15 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:05:15 ajay Found Element By : By.id: login_password
+15/10/2022 10:05:15 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:05:15 ajay Found Element By : By.id: register-submit
+15/10/2022 10:05:15 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (c0b8127c-4cf7-4889-b544-c5ba6a168f80)] -> id: register-submit]
+15/10/2022 10:05:16 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (c0b8127c-4cf7-4889-b544-c5ba6a168f80)] -> id: register-submit]
+15/10/2022 10:05:18 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:05:18 ajay Found Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:05:18 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (c0b8127c-4cf7-4889-b544-c5ba6a168f80)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:05:18 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (c0b8127c-4cf7-4889-b544-c5ba6a168f80)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:05:20 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:05:31 ajay Found Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:05:31 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:05:31 ajay Found Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:05:31 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (c0b8127c-4cf7-4889-b544-c5ba6a168f80)] -> xpath: //button[@class='ant-btn']]
+15/10/2022 10:05:31 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (c0b8127c-4cf7-4889-b544-c5ba6a168f80)] -> xpath: //button[@class='ant-btn']]
+15/10/2022 10:09:19 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:09:23 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:09:23 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:09:23 ajay Found Element By : By.id: login_email
+15/10/2022 10:09:24 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:09:24 ajay Found Element By : By.id: login_password
+15/10/2022 10:09:25 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:09:25 ajay Found Element By : By.id: register-submit
+15/10/2022 10:09:25 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (27126ef5-bed1-43be-af3e-3dead473630a)] -> id: register-submit]
+15/10/2022 10:09:25 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (27126ef5-bed1-43be-af3e-3dead473630a)] -> id: register-submit]
+15/10/2022 10:09:27 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:09:27 ajay Found Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:09:27 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (27126ef5-bed1-43be-af3e-3dead473630a)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:09:28 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (27126ef5-bed1-43be-af3e-3dead473630a)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:09:30 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:09:30 ajay Found Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:09:30 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (27126ef5-bed1-43be-af3e-3dead473630a)] -> xpath: //button[@class='ant-btn']]
+15/10/2022 10:09:30 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (27126ef5-bed1-43be-af3e-3dead473630a)] -> xpath: //button[@class='ant-btn']]
+15/10/2022 10:09:38 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:09:42 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:09:42 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:09:42 ajay Found Element By : By.id: login_email
+15/10/2022 10:09:43 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:09:43 ajay Found Element By : By.id: login_password
+15/10/2022 10:09:43 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:09:43 ajay Found Element By : By.id: register-submit
+15/10/2022 10:09:43 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (97f15744-13f8-4246-9317-9e2ed53e7c44)] -> id: register-submit]
+15/10/2022 10:09:44 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (97f15744-13f8-4246-9317-9e2ed53e7c44)] -> id: register-submit]
+15/10/2022 10:09:46 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:09:46 ajay Found Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:09:46 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (97f15744-13f8-4246-9317-9e2ed53e7c44)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:09:46 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (97f15744-13f8-4246-9317-9e2ed53e7c44)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:09:56 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:09:59 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:09:59 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:09:59 ajay Found Element By : By.id: login_email
+15/10/2022 10:10:00 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:10:00 ajay Found Element By : By.id: login_password
+15/10/2022 10:10:01 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:10:01 ajay Found Element By : By.id: register-submit
+15/10/2022 10:10:01 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (4d1dc325-14ee-4190-9bc8-39afa5403959)] -> id: register-submit]
+15/10/2022 10:10:01 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (4d1dc325-14ee-4190-9bc8-39afa5403959)] -> id: register-submit]
+15/10/2022 10:10:14 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:10:17 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:10:17 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:10:18 ajay Found Element By : By.id: login_email
+15/10/2022 10:10:18 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:10:19 ajay Found Element By : By.id: login_password
+15/10/2022 10:10:19 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:10:19 ajay Found Element By : By.id: register-submit
+15/10/2022 10:10:19 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> id: register-submit]
+15/10/2022 10:10:20 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> id: register-submit]
+15/10/2022 10:10:22 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:10:22 ajay Found Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:10:22 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:10:22 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:10:24 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:10:34 ajay Found Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:10:34 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:10:34 ajay Found Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:10:34 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //button[@class='ant-btn']]
+15/10/2022 10:10:34 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //button[@class='ant-btn']]
+15/10/2022 10:10:36 ajay Trying to find Element By : By.id: job-post_name
+15/10/2022 10:10:36 ajay Found Element By : By.id: job-post_name
+15/10/2022 10:10:36 ajay Trying to find Element By : By.id: job-post_industry
+15/10/2022 10:10:36 ajay Found Element By : By.id: job-post_industry
+15/10/2022 10:10:36 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> id: job-post_industry]
+15/10/2022 10:10:36 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> id: job-post_industry]
+15/10/2022 10:10:36 ajay Trying to find Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:10:36 ajay Found Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:10:36 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:10:37 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:10:38 ajay Trying to find Element By : By.id: job-post_company_size
+15/10/2022 10:10:38 ajay Found Element By : By.id: job-post_company_size
+15/10/2022 10:10:38 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> id: job-post_company_size]
+15/10/2022 10:10:38 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> id: job-post_company_size]
+15/10/2022 10:10:38 ajay Trying to find Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:10:38 ajay Found Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:10:38 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:10:39 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:10:40 ajay Trying to find Element By : By.id: job-post_company_type
+15/10/2022 10:10:40 ajay Found Element By : By.id: job-post_company_type
+15/10/2022 10:10:40 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> id: job-post_company_type]
+15/10/2022 10:10:40 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> id: job-post_company_type]
+15/10/2022 10:10:40 ajay Trying to find Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:10:40 ajay Found Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:10:40 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:10:41 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:10:42 ajay Trying to find Element By : By.id: job-post_location
+15/10/2022 10:10:42 ajay Found Element By : By.id: job-post_location
+15/10/2022 10:10:42 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:10:42 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:10:42 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:10:42 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e57c6f67-babd-43cc-a5bd-9e1af7e32d6b)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:10:51 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:10:55 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:10:55 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:10:55 ajay Found Element By : By.id: login_email
+15/10/2022 10:10:56 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:10:56 ajay Found Element By : By.id: login_password
+15/10/2022 10:10:56 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:10:56 ajay Found Element By : By.id: register-submit
+15/10/2022 10:10:56 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> id: register-submit]
+15/10/2022 10:10:57 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> id: register-submit]
+15/10/2022 10:10:59 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:10:59 ajay Found Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:10:59 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:10:59 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:11:01 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:11:01 ajay Found Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:11:01 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:11:01 ajay Found Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:11:01 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']]
+15/10/2022 10:11:02 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']]
+15/10/2022 10:11:03 ajay Trying to find Element By : By.id: job-post_name
+15/10/2022 10:11:03 ajay Found Element By : By.id: job-post_name
+15/10/2022 10:11:03 ajay Trying to find Element By : By.id: job-post_industry
+15/10/2022 10:11:03 ajay Found Element By : By.id: job-post_industry
+15/10/2022 10:11:03 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> id: job-post_industry]
+15/10/2022 10:11:04 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> id: job-post_industry]
+15/10/2022 10:11:04 ajay Trying to find Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:04 ajay Found Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:04 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:04 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:05 ajay Trying to find Element By : By.id: job-post_company_size
+15/10/2022 10:11:05 ajay Found Element By : By.id: job-post_company_size
+15/10/2022 10:11:05 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> id: job-post_company_size]
+15/10/2022 10:11:06 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> id: job-post_company_size]
+15/10/2022 10:11:06 ajay Trying to find Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:06 ajay Found Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:06 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:06 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:07 ajay Trying to find Element By : By.id: job-post_company_type
+15/10/2022 10:11:07 ajay Found Element By : By.id: job-post_company_type
+15/10/2022 10:11:07 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> id: job-post_company_type]
+15/10/2022 10:11:08 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> id: job-post_company_type]
+15/10/2022 10:11:08 ajay Trying to find Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:08 ajay Found Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:08 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:08 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:09 ajay Trying to find Element By : By.id: job-post_location
+15/10/2022 10:11:09 ajay Found Element By : By.id: job-post_location
+15/10/2022 10:11:10 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:11:10 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:11:10 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:11:10 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (987e8d8e-0616-446d-ba7a-df3537a06361)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:11:19 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:11:23 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:11:23 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:11:23 ajay Found Element By : By.id: login_email
+15/10/2022 10:11:24 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:11:24 ajay Found Element By : By.id: login_password
+15/10/2022 10:11:25 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:11:25 ajay Found Element By : By.id: register-submit
+15/10/2022 10:11:25 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> id: register-submit]
+15/10/2022 10:11:25 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> id: register-submit]
+15/10/2022 10:11:27 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:11:27 ajay Found Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:11:27 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:11:28 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:11:30 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:11:30 ajay Found Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:11:30 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:11:30 ajay Found Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:11:30 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']]
+15/10/2022 10:11:30 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']]
+15/10/2022 10:11:31 ajay Trying to find Element By : By.id: job-post_name
+15/10/2022 10:11:31 ajay Found Element By : By.id: job-post_name
+15/10/2022 10:11:31 ajay Trying to find Element By : By.id: job-post_industry
+15/10/2022 10:11:31 ajay Found Element By : By.id: job-post_industry
+15/10/2022 10:11:31 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> id: job-post_industry]
+15/10/2022 10:11:32 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> id: job-post_industry]
+15/10/2022 10:11:32 ajay Trying to find Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:32 ajay Found Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:32 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:32 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:33 ajay Trying to find Element By : By.id: job-post_company_size
+15/10/2022 10:11:33 ajay Found Element By : By.id: job-post_company_size
+15/10/2022 10:11:33 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> id: job-post_company_size]
+15/10/2022 10:11:34 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> id: job-post_company_size]
+15/10/2022 10:11:34 ajay Trying to find Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:34 ajay Found Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:34 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:34 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:35 ajay Trying to find Element By : By.id: job-post_company_type
+15/10/2022 10:11:35 ajay Found Element By : By.id: job-post_company_type
+15/10/2022 10:11:35 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> id: job-post_company_type]
+15/10/2022 10:11:36 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> id: job-post_company_type]
+15/10/2022 10:11:36 ajay Trying to find Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:36 ajay Found Element By : By.xpath: //div[@class='ant-select-item ant-select-item-option']
+15/10/2022 10:11:36 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:36 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //div[@class='ant-select-item ant-select-item-option']]
+15/10/2022 10:11:37 ajay Trying to find Element By : By.id: job-post_location
+15/10/2022 10:11:37 ajay Found Element By : By.id: job-post_location
+15/10/2022 10:11:37 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:11:37 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:11:37 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:11:38 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e8a059f3-9517-4fff-875d-31651bfa4f20)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:11:48 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:11:51 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:11:51 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:11:51 ajay Found Element By : By.id: login_email
+15/10/2022 10:11:52 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:11:53 ajay Found Element By : By.id: login_password
+15/10/2022 10:11:53 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:11:53 ajay Found Element By : By.id: register-submit
+15/10/2022 10:11:53 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (b4440b92-d381-446c-a343-fc171769dabc)] -> id: register-submit]
+15/10/2022 10:11:53 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (b4440b92-d381-446c-a343-fc171769dabc)] -> id: register-submit]
+15/10/2022 10:11:55 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:11:55 ajay Found Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:11:55 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (b4440b92-d381-446c-a343-fc171769dabc)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:11:56 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (b4440b92-d381-446c-a343-fc171769dabc)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:11:58 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:11:58 ajay Found Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:11:58 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (b4440b92-d381-446c-a343-fc171769dabc)] -> xpath: //button[@class='ant-btn']]
+15/10/2022 10:11:59 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (b4440b92-d381-446c-a343-fc171769dabc)] -> xpath: //button[@class='ant-btn']]
+15/10/2022 10:12:00 ajay Trying to find Element By : By.id: job-post_first_name
+15/10/2022 10:12:00 ajay Found Element By : By.id: job-post_first_name
+15/10/2022 10:12:00 ajay Trying to find Element By : By.id: job-post_last_name
+15/10/2022 10:12:00 ajay Found Element By : By.id: job-post_last_name
+15/10/2022 10:12:00 ajay Trying to find Element By : By.id: job-post_email
+15/10/2022 10:12:00 ajay Found Element By : By.id: job-post_email
+15/10/2022 10:12:00 ajay Trying to find Element By : By.id: job-post_current_job_company
+15/10/2022 10:12:00 ajay Found Element By : By.id: job-post_current_job_company
+15/10/2022 10:12:00 ajay Trying to find Element By : By.id: job-post_linked_in_url
+15/10/2022 10:12:00 ajay Found Element By : By.id: job-post_linked_in_url
+15/10/2022 10:12:01 ajay Trying to find Element By : By.id: job-post_twitter_handle
+15/10/2022 10:12:01 ajay Found Element By : By.id: job-post_twitter_handle
+15/10/2022 10:12:02 ajay Trying to find Element By : By.id: job-post_current_job_location
+15/10/2022 10:12:02 ajay Found Element By : By.id: job-post_current_job_location
+15/10/2022 10:12:02 ajay Trying to find Element By : By.id: job-post_phone
+15/10/2022 10:12:02 ajay Found Element By : By.id: job-post_phone
+15/10/2022 10:12:02 ajay Trying to find Element By : By.id: job-post_current_job_title
+15/10/2022 10:12:02 ajay Found Element By : By.id: job-post_current_job_title
+15/10/2022 10:12:02 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:12:02 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:12:02 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (b4440b92-d381-446c-a343-fc171769dabc)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:12:03 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (b4440b92-d381-446c-a343-fc171769dabc)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:12:15 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:12:18 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:12:18 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:12:18 ajay Found Element By : By.id: login_email
+15/10/2022 10:12:19 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:12:19 ajay Found Element By : By.id: login_password
+15/10/2022 10:12:20 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:12:20 ajay Found Element By : By.id: register-submit
+15/10/2022 10:12:20 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (7599f116-d00b-439e-8789-91722b956207)] -> id: register-submit]
+15/10/2022 10:12:20 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (7599f116-d00b-439e-8789-91722b956207)] -> id: register-submit]
+15/10/2022 10:12:22 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:12:22 ajay Found Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:12:22 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (7599f116-d00b-439e-8789-91722b956207)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:12:23 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (7599f116-d00b-439e-8789-91722b956207)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:12:25 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:12:35 ajay Found Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:12:35 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:12:35 ajay Found Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:12:35 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (7599f116-d00b-439e-8789-91722b956207)] -> xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']]
+15/10/2022 10:12:36 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (7599f116-d00b-439e-8789-91722b956207)] -> xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']]
+15/10/2022 10:12:37 ajay Trying to find Element By : By.id: job-post_first_name
+15/10/2022 10:12:37 ajay Found Element By : By.id: job-post_first_name
+15/10/2022 10:12:37 ajay Trying to find Element By : By.id: job-post_last_name
+15/10/2022 10:12:37 ajay Found Element By : By.id: job-post_last_name
+15/10/2022 10:12:37 ajay Trying to find Element By : By.id: job-post_email
+15/10/2022 10:12:37 ajay Found Element By : By.id: job-post_email
+15/10/2022 10:12:37 ajay Trying to find Element By : By.id: job-post_current_job_company
+15/10/2022 10:12:37 ajay Found Element By : By.id: job-post_current_job_company
+15/10/2022 10:12:37 ajay Trying to find Element By : By.id: job-post_linked_in_url
+15/10/2022 10:12:37 ajay Found Element By : By.id: job-post_linked_in_url
+15/10/2022 10:12:38 ajay Trying to find Element By : By.id: job-post_twitter_handle
+15/10/2022 10:12:38 ajay Found Element By : By.id: job-post_twitter_handle
+15/10/2022 10:12:38 ajay Trying to find Element By : By.id: job-post_current_job_location
+15/10/2022 10:12:38 ajay Found Element By : By.id: job-post_current_job_location
+15/10/2022 10:12:38 ajay Trying to find Element By : By.id: job-post_phone
+15/10/2022 10:12:38 ajay Found Element By : By.id: job-post_phone
+15/10/2022 10:12:38 ajay Trying to find Element By : By.id: job-post_current_job_title
+15/10/2022 10:12:38 ajay Found Element By : By.id: job-post_current_job_title
+15/10/2022 10:12:39 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:12:39 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:12:39 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (7599f116-d00b-439e-8789-91722b956207)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:12:39 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (7599f116-d00b-439e-8789-91722b956207)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:12:48 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:12:51 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:12:52 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:12:52 ajay Found Element By : By.id: login_email
+15/10/2022 10:12:53 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:12:53 ajay Found Element By : By.id: login_password
+15/10/2022 10:12:53 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:12:53 ajay Found Element By : By.id: register-submit
+15/10/2022 10:12:53 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (c807aec4-1da1-4432-a4b2-700c8b61d319)] -> id: register-submit]
+15/10/2022 10:12:54 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (c807aec4-1da1-4432-a4b2-700c8b61d319)] -> id: register-submit]
+15/10/2022 10:12:56 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:12:56 ajay Found Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:12:56 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (c807aec4-1da1-4432-a4b2-700c8b61d319)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:12:56 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (c807aec4-1da1-4432-a4b2-700c8b61d319)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:12:58 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:13:08 ajay Found Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:13:08 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:13:08 ajay Found Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:13:08 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (c807aec4-1da1-4432-a4b2-700c8b61d319)] -> xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']]
+15/10/2022 10:13:09 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (c807aec4-1da1-4432-a4b2-700c8b61d319)] -> xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']]
+15/10/2022 10:13:10 ajay Trying to find Element By : By.id: job-post_first_name
+15/10/2022 10:13:10 ajay Found Element By : By.id: job-post_first_name
+15/10/2022 10:13:10 ajay Trying to find Element By : By.id: job-post_last_name
+15/10/2022 10:13:10 ajay Found Element By : By.id: job-post_last_name
+15/10/2022 10:13:10 ajay Trying to find Element By : By.id: job-post_email
+15/10/2022 10:13:10 ajay Found Element By : By.id: job-post_email
+15/10/2022 10:13:10 ajay Trying to find Element By : By.id: job-post_current_job_company
+15/10/2022 10:13:10 ajay Found Element By : By.id: job-post_current_job_company
+15/10/2022 10:13:10 ajay Trying to find Element By : By.id: job-post_linked_in_url
+15/10/2022 10:13:10 ajay Found Element By : By.id: job-post_linked_in_url
+15/10/2022 10:13:10 ajay Trying to find Element By : By.id: job-post_twitter_handle
+15/10/2022 10:13:10 ajay Found Element By : By.id: job-post_twitter_handle
+15/10/2022 10:13:10 ajay Trying to find Element By : By.id: job-post_current_job_location
+15/10/2022 10:13:10 ajay Found Element By : By.id: job-post_current_job_location
+15/10/2022 10:13:10 ajay Trying to find Element By : By.id: job-post_phone
+15/10/2022 10:13:10 ajay Found Element By : By.id: job-post_phone
+15/10/2022 10:13:11 ajay Trying to find Element By : By.id: job-post_current_job_title
+15/10/2022 10:13:11 ajay Found Element By : By.id: job-post_current_job_title
+15/10/2022 10:13:11 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:13:11 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:13:11 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (c807aec4-1da1-4432-a4b2-700c8b61d319)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:13:11 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (c807aec4-1da1-4432-a4b2-700c8b61d319)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:13:21 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:13:24 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:13:24 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:13:24 ajay Found Element By : By.id: login_email
+15/10/2022 10:13:25 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:13:25 ajay Found Element By : By.id: login_password
+15/10/2022 10:13:26 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:13:26 ajay Found Element By : By.id: register-submit
+15/10/2022 10:13:26 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (96041ec9-f720-4a8d-9a99-e876beab9acc)] -> id: register-submit]
+15/10/2022 10:13:26 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (96041ec9-f720-4a8d-9a99-e876beab9acc)] -> id: register-submit]
+15/10/2022 10:13:28 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:13:28 ajay Found Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:13:28 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (96041ec9-f720-4a8d-9a99-e876beab9acc)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:13:29 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (96041ec9-f720-4a8d-9a99-e876beab9acc)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:13:31 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:13:41 ajay Found Element By : By.xpath: //button[@class='ant-btn']
+15/10/2022 10:13:41 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:13:41 ajay Found Element By : By.xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']
+15/10/2022 10:13:41 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (96041ec9-f720-4a8d-9a99-e876beab9acc)] -> xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']]
+15/10/2022 10:13:41 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (96041ec9-f720-4a8d-9a99-e876beab9acc)] -> xpath: //button[@class='ant-btn add-row-btn ant-btn-primary ant-btn-sm']]
+15/10/2022 10:13:42 ajay Trying to find Element By : By.id: job-post_first_name
+15/10/2022 10:13:42 ajay Found Element By : By.id: job-post_first_name
+15/10/2022 10:13:42 ajay Trying to find Element By : By.id: job-post_last_name
+15/10/2022 10:13:42 ajay Found Element By : By.id: job-post_last_name
+15/10/2022 10:13:42 ajay Trying to find Element By : By.id: job-post_email
+15/10/2022 10:13:42 ajay Found Element By : By.id: job-post_email
+15/10/2022 10:13:42 ajay Trying to find Element By : By.id: job-post_current_job_company
+15/10/2022 10:13:42 ajay Found Element By : By.id: job-post_current_job_company
+15/10/2022 10:13:42 ajay Trying to find Element By : By.id: job-post_linked_in_url
+15/10/2022 10:13:42 ajay Found Element By : By.id: job-post_linked_in_url
+15/10/2022 10:13:42 ajay Trying to find Element By : By.id: job-post_twitter_handle
+15/10/2022 10:13:42 ajay Found Element By : By.id: job-post_twitter_handle
+15/10/2022 10:13:42 ajay Trying to find Element By : By.id: job-post_current_job_location
+15/10/2022 10:13:42 ajay Found Element By : By.id: job-post_current_job_location
+15/10/2022 10:13:42 ajay Trying to find Element By : By.id: job-post_phone
+15/10/2022 10:13:42 ajay Found Element By : By.id: job-post_phone
+15/10/2022 10:13:43 ajay Trying to find Element By : By.id: job-post_current_job_title
+15/10/2022 10:13:43 ajay Found Element By : By.id: job-post_current_job_title
+15/10/2022 10:13:43 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:13:43 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-primary']
+15/10/2022 10:13:43 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (96041ec9-f720-4a8d-9a99-e876beab9acc)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:13:43 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (96041ec9-f720-4a8d-9a99-e876beab9acc)] -> xpath: //button[@class='ant-btn ant-btn-primary']]
+15/10/2022 10:13:52 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:13:55 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:13:56 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:13:56 ajay Found Element By : By.id: login_email
+15/10/2022 10:13:56 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:13:57 ajay Found Element By : By.id: login_password
+15/10/2022 10:13:57 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:13:57 ajay Found Element By : By.id: register-submit
+15/10/2022 10:13:57 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e1d5fc9d-3d2d-4017-b84f-780562aac424)] -> id: register-submit]
+15/10/2022 10:13:58 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e1d5fc9d-3d2d-4017-b84f-780562aac424)] -> id: register-submit]
+15/10/2022 10:14:00 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:14:00 ajay Found Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:14:00 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e1d5fc9d-3d2d-4017-b84f-780562aac424)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:14:00 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e1d5fc9d-3d2d-4017-b84f-780562aac424)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:14:02 ajay Trying to find Element By : By.xpath: (//div[@class='formatterCell'])
+15/10/2022 10:14:02 ajay Found Element By : By.xpath: (//div[@class='formatterCell'])
+15/10/2022 10:14:02 ajay Trying to find Element By : By.xpath: (//div[@class='formatterCell'])
+15/10/2022 10:14:02 ajay Found Element By : By.xpath: (//div[@class='formatterCell'])
+15/10/2022 10:14:02 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e1d5fc9d-3d2d-4017-b84f-780562aac424)] -> xpath: (//div[@class='formatterCell'])]
+15/10/2022 10:14:02 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e1d5fc9d-3d2d-4017-b84f-780562aac424)] -> xpath: (//div[@class='formatterCell'])]
+15/10/2022 10:14:04 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:14:04 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:14:04 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e1d5fc9d-3d2d-4017-b84f-780562aac424)] -> xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']]
+15/10/2022 10:14:05 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e1d5fc9d-3d2d-4017-b84f-780562aac424)] -> xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']]
+15/10/2022 10:14:07 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-danger']
+15/10/2022 10:14:07 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-danger']
+15/10/2022 10:14:07 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (e1d5fc9d-3d2d-4017-b84f-780562aac424)] -> xpath: //button[@class='ant-btn ant-btn-danger']]
+15/10/2022 10:14:07 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (e1d5fc9d-3d2d-4017-b84f-780562aac424)] -> xpath: //button[@class='ant-btn ant-btn-danger']]
+15/10/2022 10:14:20 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:14:23 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:14:23 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:14:23 ajay Found Element By : By.id: login_email
+15/10/2022 10:14:24 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:14:25 ajay Found Element By : By.id: login_password
+15/10/2022 10:14:25 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:14:25 ajay Found Element By : By.id: register-submit
+15/10/2022 10:14:25 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (04b2f44b-2c29-4707-8720-0d025e888ad6)] -> id: register-submit]
+15/10/2022 10:14:25 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (04b2f44b-2c29-4707-8720-0d025e888ad6)] -> id: register-submit]
+15/10/2022 10:14:27 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:14:27 ajay Found Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:14:27 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (04b2f44b-2c29-4707-8720-0d025e888ad6)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:14:28 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (04b2f44b-2c29-4707-8720-0d025e888ad6)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:14:30 ajay Trying to find Element By : By.xpath: (//div[@class='formatterCell'])
+15/10/2022 10:14:30 ajay Found Element By : By.xpath: (//div[@class='formatterCell'])
+15/10/2022 10:14:30 ajay Trying to find Element By : By.xpath: (//div[@class='formatterCell'])
+15/10/2022 10:14:30 ajay Found Element By : By.xpath: (//div[@class='formatterCell'])
+15/10/2022 10:14:30 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (04b2f44b-2c29-4707-8720-0d025e888ad6)] -> xpath: (//div[@class='formatterCell'])]
+15/10/2022 10:14:30 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (04b2f44b-2c29-4707-8720-0d025e888ad6)] -> xpath: (//div[@class='formatterCell'])]
+15/10/2022 10:14:32 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:14:32 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:14:32 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (04b2f44b-2c29-4707-8720-0d025e888ad6)] -> xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']]
+15/10/2022 10:14:33 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (04b2f44b-2c29-4707-8720-0d025e888ad6)] -> xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']]
+15/10/2022 10:14:35 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-danger']
+15/10/2022 10:14:35 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-danger']
+15/10/2022 10:14:35 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (04b2f44b-2c29-4707-8720-0d025e888ad6)] -> xpath: //button[@class='ant-btn ant-btn-danger']]
+15/10/2022 10:14:35 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (04b2f44b-2c29-4707-8720-0d025e888ad6)] -> xpath: //button[@class='ant-btn ant-btn-danger']]
+15/10/2022 10:14:47 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:14:51 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:14:51 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:14:51 ajay Found Element By : By.id: login_email
+15/10/2022 10:14:52 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:14:52 ajay Found Element By : By.id: login_password
+15/10/2022 10:14:52 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:14:52 ajay Found Element By : By.id: register-submit
+15/10/2022 10:14:52 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (d87ad879-a2ae-4949-90ec-bd5f24fb0bb6)] -> id: register-submit]
+15/10/2022 10:14:53 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (d87ad879-a2ae-4949-90ec-bd5f24fb0bb6)] -> id: register-submit]
+15/10/2022 10:14:55 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:14:55 ajay Found Element By : By.xpath: //*[contains(text(),'Companies')]
+15/10/2022 10:14:55 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (d87ad879-a2ae-4949-90ec-bd5f24fb0bb6)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:14:55 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (d87ad879-a2ae-4949-90ec-bd5f24fb0bb6)] -> xpath: //*[contains(text(),'Companies')]]
+15/10/2022 10:14:57 ajay Trying to find Element By : By.xpath: //label[@class='ant-checkbox-wrapper']
+15/10/2022 10:14:57 ajay Found Element By : By.xpath: //label[@class='ant-checkbox-wrapper']
+15/10/2022 10:14:57 ajay Trying to find Element By : By.xpath: //label[@class='ant-checkbox-wrapper']
+15/10/2022 10:14:57 ajay Found Element By : By.xpath: //label[@class='ant-checkbox-wrapper']
+15/10/2022 10:14:57 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (d87ad879-a2ae-4949-90ec-bd5f24fb0bb6)] -> xpath: //label[@class='ant-checkbox-wrapper']]
+15/10/2022 10:14:58 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (d87ad879-a2ae-4949-90ec-bd5f24fb0bb6)] -> xpath: //label[@class='ant-checkbox-wrapper']]
+15/10/2022 10:15:00 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:15:00 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:15:00 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:15:00 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:15:00 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (d87ad879-a2ae-4949-90ec-bd5f24fb0bb6)] -> xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']]
+15/10/2022 10:15:00 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (d87ad879-a2ae-4949-90ec-bd5f24fb0bb6)] -> xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']]
+15/10/2022 10:15:02 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-danger']
+15/10/2022 10:15:02 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-danger']
+15/10/2022 10:15:02 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (d87ad879-a2ae-4949-90ec-bd5f24fb0bb6)] -> xpath: //button[@class='ant-btn ant-btn-danger']]
+15/10/2022 10:15:02 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (d87ad879-a2ae-4949-90ec-bd5f24fb0bb6)] -> xpath: //button[@class='ant-btn ant-btn-danger']]
+15/10/2022 10:15:15 ajay Before navigating to: 'https://app.tealhq.com/sign-in'
+15/10/2022 10:15:18 ajay Navigated to:'https://app.tealhq.com/sign-in'
+15/10/2022 10:15:18 ajay Trying to find Element By : By.id: login_email
+15/10/2022 10:15:19 ajay Found Element By : By.id: login_email
+15/10/2022 10:15:19 ajay Trying to find Element By : By.id: login_password
+15/10/2022 10:15:20 ajay Found Element By : By.id: login_password
+15/10/2022 10:15:20 ajay Trying to find Element By : By.id: register-submit
+15/10/2022 10:15:20 ajay Found Element By : By.id: register-submit
+15/10/2022 10:15:20 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (fd7cd133-bf9a-4deb-8430-de3c8144116b)] -> id: register-submit]
+15/10/2022 10:15:21 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (fd7cd133-bf9a-4deb-8430-de3c8144116b)] -> id: register-submit]
+15/10/2022 10:15:23 ajay Trying to find Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:15:23 ajay Found Element By : By.xpath: //*[contains(text(),'Contacts')]
+15/10/2022 10:15:23 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (fd7cd133-bf9a-4deb-8430-de3c8144116b)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:15:23 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (fd7cd133-bf9a-4deb-8430-de3c8144116b)] -> xpath: //*[contains(text(),'Contacts')]]
+15/10/2022 10:15:25 ajay Trying to find Element By : By.xpath: //label[@class='ant-checkbox-wrapper']
+15/10/2022 10:15:25 ajay Found Element By : By.xpath: //label[@class='ant-checkbox-wrapper']
+15/10/2022 10:15:25 ajay Trying to find Element By : By.xpath: //label[@class='ant-checkbox-wrapper']
+15/10/2022 10:15:25 ajay Found Element By : By.xpath: //label[@class='ant-checkbox-wrapper']
+15/10/2022 10:15:25 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (fd7cd133-bf9a-4deb-8430-de3c8144116b)] -> xpath: //label[@class='ant-checkbox-wrapper']]
+15/10/2022 10:15:26 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (fd7cd133-bf9a-4deb-8430-de3c8144116b)] -> xpath: //label[@class='ant-checkbox-wrapper']]
+15/10/2022 10:15:28 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:15:28 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:15:28 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:15:28 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']
+15/10/2022 10:15:28 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (fd7cd133-bf9a-4deb-8430-de3c8144116b)] -> xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']]
+15/10/2022 10:15:28 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (fd7cd133-bf9a-4deb-8430-de3c8144116b)] -> xpath: //button[@class='ant-btn ant-btn-sm ant-btn-dangerous']]
+15/10/2022 10:15:30 ajay Trying to find Element By : By.xpath: //button[@class='ant-btn ant-btn-danger']
+15/10/2022 10:15:30 ajay Found Element By : By.xpath: //button[@class='ant-btn ant-btn-danger']
+15/10/2022 10:15:30 ajay Trying to click on: [[FirefoxDriver: firefox on WINDOWS (fd7cd133-bf9a-4deb-8430-de3c8144116b)] -> xpath: //button[@class='ant-btn ant-btn-danger']]
+15/10/2022 10:15:30 ajay Clicked on: [[FirefoxDriver: firefox on WINDOWS (fd7cd133-bf9a-4deb-8430-de3c8144116b)] -> xpath: //button[@class='ant-btn ant-btn-danger']]
